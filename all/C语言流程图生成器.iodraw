@@ -1,42 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram id="-eeF4dPnX65M_ghFCyeH" name="Page-1">
-    <mxGraphModel dx="3253" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2254" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a58y-LKS7v3bOSulzCm5-3" value="判断y==0？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="370" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="a58y-LKS7v3bOSulzCm5-8" value="否" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a58y-LKS7v3bOSulzCm5-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-350" y="470" as="sourcePoint" />
-            <mxPoint x="-310" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a58y-LKS7v3bOSulzCm5-10" value="是" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a58y-LKS7v3bOSulzCm5-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-550" y="500" as="sourcePoint" />
-            <mxPoint x="-540" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a58y-LKS7v3bOSulzCm5-11" value="y&amp;lt;0?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="480" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="a58y-LKS7v3bOSulzCm5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a58y-LKS7v3bOSulzCm5-11" target="a58y-LKS7v3bOSulzCm5-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a58y-LKS7v3bOSulzCm5-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.687;exitY=0.744;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a58y-LKS7v3bOSulzCm5-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-260" y="530" as="sourcePoint" />
-            <mxPoint x="-210" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a58y-LKS7v3bOSulzCm5-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.248;exitY=0.744;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a58y-LKS7v3bOSulzCm5-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-350" y="470" as="sourcePoint" />
-            <mxPoint x="-370" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a58y-LKS7v3bOSulzCm5-16" value="px" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="-150" y="300" width="619" height="1721" as="geometry" />
         </mxCell>
