@@ -46,8 +46,8 @@
             <mxPoint x="-370" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a58y-LKS7v3bOSulzCm5-16" value="px" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="410" width="619" height="1721" as="geometry" />
+        <mxCell id="a58y-LKS7v3bOSulzCm5-16" value="px" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="400" width="619" height="1721" as="geometry" />
         </mxCell>
         <mxCell id="a58y-LKS7v3bOSulzCm5-20" value="if (y == 0)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="a58y-LKS7v3bOSulzCm5-16">
           <mxGeometry x="226" y="414" width="118" height="118" as="geometry" />
