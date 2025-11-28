@@ -47,10 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a58y-LKS7v3bOSulzCm5-16" value="px" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="420" width="619" height="1721" as="geometry" />
-        </mxCell>
-        <mxCell id="a58y-LKS7v3bOSulzCm5-17" value="float px(float x, int y)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="a58y-LKS7v3bOSulzCm5-16">
-          <mxGeometry x="357" y="46" width="217" height="49" as="geometry" />
+          <mxGeometry x="-160" y="410" width="619" height="1721" as="geometry" />
         </mxCell>
         <mxCell id="a58y-LKS7v3bOSulzCm5-20" value="if (y == 0)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="a58y-LKS7v3bOSulzCm5-16">
           <mxGeometry x="226" y="414" width="118" height="118" as="geometry" />
