@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a58y-LKS7v3bOSulzCm5-16" value="px" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="400" width="619" height="1721" as="geometry" />
+          <mxGeometry x="-150" y="300" width="619" height="1721" as="geometry" />
         </mxCell>
         <mxCell id="a58y-LKS7v3bOSulzCm5-20" value="if (y == 0)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="a58y-LKS7v3bOSulzCm5-16">
           <mxGeometry x="226" y="414" width="118" height="118" as="geometry" />
@@ -136,10 +136,14 @@
         <mxCell id="a58y-LKS7v3bOSulzCm5-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a58y-LKS7v3bOSulzCm5-16">
           <mxGeometry x="226" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a58y-LKS7v3bOSulzCm5-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="a58y-LKS7v3bOSulzCm5-16">
+        <mxCell id="a58y-LKS7v3bOSulzCm5-45" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-110" y="650" as="sourcePoint" />
             <mxPoint x="-60" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-60" y="650" />
+              <mxPoint x="-110" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
